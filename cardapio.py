@@ -8,7 +8,7 @@ while opcao !=5:
     print("4-Refrigerante")
     print("5-Sair")
     
-    opcao = int(input("Escolha uma opção do menu"))
+    opcao = int(input("Escolha uma opção do menu:"))
     if opcao == 1:
         print("Você escolheu o hambúrguer")
     elif opcao == 2:
